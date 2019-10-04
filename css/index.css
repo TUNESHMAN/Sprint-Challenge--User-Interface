@@ -147,7 +147,6 @@ footer nav a {
 
 .head{
     display: flex;
-    background-color: teal;
     justify-content: space-around;
 }
 
@@ -165,4 +164,9 @@ nav a:hover{
     background-color: white;
     color: red;
 
+}
+
+.jumbo{
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
