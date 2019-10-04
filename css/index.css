@@ -175,6 +175,8 @@ nav a:hover{
     display: flex;
     margin: 0 auto;
     justify-content: space-between;
+    margin: 50px 0px 30px 0px;
+
     
 }
 
@@ -185,7 +187,7 @@ nav a:hover{
 }
 
 .about{
-    margin: 15px 0px 15px 0px;
+    margin: 15px 0px 25px 0px;
 }
 .jumbo-about{
     margin:20px 0px 20px 0px;
@@ -198,7 +200,8 @@ nav a:hover{
 }
 
 .section3{
-    margin-top: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .learn{
@@ -210,5 +213,10 @@ nav a:hover{
 	margin-top: 20px;
 	margin-bottom: 10px;
 	background-color: white;
-	height: 30px;
+    height: 32px;
+    align-content: center;
+}
+
+.places, .colla{
+    margin-top:30px;
 }
