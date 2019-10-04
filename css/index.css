@@ -144,3 +144,25 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.head{
+    display: flex;
+    background-color: teal;
+    justify-content: space-around;
+}
+
+.head nav{
+    display: flex;
+    justify-content: space-around;
+    flex-basis: 80%;
+}
+nav a {
+    padding-top: 20px;
+    color: black;
+}
+
+nav a:hover{
+    background-color: white;
+    color: red;
+
+}
