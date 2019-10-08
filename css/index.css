@@ -144,3 +144,79 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.head{
+    display: flex;
+    justify-content: space-around;
+}
+
+.head nav{
+    display: flex;
+    justify-content: space-around;
+    flex-basis: 80%;
+}
+nav a {
+    padding-top: 20px;
+    color: black;
+}
+
+nav a:hover{
+    background-color: white;
+    color: red;
+
+}
+
+.jumbo{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.section1{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin: 50px 0px 30px 0px;
+
+    
+}
+
+.section2{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.about{
+    margin: 15px 0px 25px 0px;
+}
+.jumbo-about{
+    margin:20px 0px 20px 0px;
+}
+.strategy{
+    flex-wrap: wrap;
+}
+.work, .places{
+    flex-wrap: wrap;
+}
+
+.section3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.learn{
+	border: 1px solid black;
+	width: 150px;
+	text-align: center;
+	border-radius: 5px;
+	padding: 2px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	background-color: white;
+    height: 32px;
+    align-content: center;
+}
+
+.places, .colla{
+    margin-top:30px;
+}
